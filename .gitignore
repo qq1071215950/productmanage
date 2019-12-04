@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/node_modules/umi-plugin-dva/src/fixtures/getModel/models/models/a.js
+/node_modules/umi-plugin-dva/src/fixtures/getModel/models/models/a.jsx
+/node_modules/umi-utils/src/index.d.ts

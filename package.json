@@ -1,0 +1,13 @@
+{
+  "name": "productmanage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^2.12.3",
+    "umi-plugin-react": "^1.14.6"
+  },
+  "dependencies": {
+    "dva": "latest"
+  }
+}
